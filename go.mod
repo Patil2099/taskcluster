@@ -53,8 +53,8 @@ require (
 	github.com/xeipuuv/gojsonpointer v0.0.0-20190905194746-02993c407bfb // indirect
 	github.com/xeipuuv/gojsonschema v1.2.0
 	golang.org/x/crypto v0.0.0-20210314154223-e6e6c4f2bb5b
-	golang.org/x/net v0.0.0-20210226172049-e18ecbb05110
-	golang.org/x/sys v0.0.0-20210314195730-07df6a141424
+	golang.org/x/net v0.0.0-20210331212208-0fccb6fa2b5c
+	golang.org/x/sys v0.0.0-20210330210617-4fbd30eecc44
 	golang.org/x/tools v0.1.0
 	gopkg.in/tylerb/graceful.v1 v1.2.15
 	gopkg.in/yaml.v2 v2.4.0
